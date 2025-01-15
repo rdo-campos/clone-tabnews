@@ -1,6 +1,7 @@
 function Home() {
     return <h3>
-Senhoras e senhores da turma de 2003 
+Senhoras e senhores da turma de 2024!
+
 <p></p>Filtro solar
 <p></p>Nunca deixem de usar filtro solar
 <p></p>Se eu pudesse dar só uma dica sobre o futuro
